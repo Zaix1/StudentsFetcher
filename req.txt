@@ -1,6 +1,0 @@
-aiohttp
-beautifulsoup4
-xlsxwriter
-openpyxl
-tqdm
-tkinter

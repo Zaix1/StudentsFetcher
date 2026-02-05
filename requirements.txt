@@ -1,0 +1,5 @@
+aiohttp>=3.8
+beautifulsoup4>=4.11
+xlsxwriter>=3.0
+openpyxl>=3.1
+tqdm>=4.65
